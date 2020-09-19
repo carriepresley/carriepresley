@@ -1,1 +1,9 @@
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/188282056@N08" title=""><img src="https://live.staticflickr.com/65535/50360717707_15c4c2d68c_z.jpg" alt=""></a>
+![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1600543684/carriepresley/git02_bxuwcd.jpg)
+
+What's up? I'm Carrie Presley and I wear a lot of hats. Literally and figuratively. I graduated from the University of Oklahoma with a degree in Accounting and .....
+
+
+
+
+
+

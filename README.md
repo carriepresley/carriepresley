@@ -1,4 +1,4 @@
-![alt text](https://flic.kr/p/2jJcxMh)
+(https://flic.kr/p/2jJcxMh)
 
 <!--
 **carriepresley/carriepresley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

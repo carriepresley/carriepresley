@@ -3,7 +3,7 @@
 
 Hi, I'm Carrie. I wear a lot of hats, literally and figuratively. 
 
-I'm a front end developer, content creator, and rap music loving yogi. I'm currently divulging into all things React while creating my portfolio at [carriepresley.com](https://carriepresley.com).
+I'm a front end developer, content creator, and a rap music loving yogi. I'm currently divulging into all things React while creating my portfolio at [carriepresley.com](https://carriepresley.com).
 
 Let's connect!
 

@@ -19,9 +19,9 @@ Let's connect!
 
 [1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/twitter_gdx4jb.png (twitter)
 [2.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/youtube_brtn5v.png (youtube)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[3.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/instagram_qybw0o.png (insta)
+[4.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/linkedin_iowicj.png (linkedin)
+[5.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/dribble_q4mpbg.png (dribble)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
@@ -29,9 +29,9 @@ Let's connect!
 
 [1]: http://www.twitter.com/carriepresley15
 [2]: http://www.youtube.com/carriepresley
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
+[3]: https://www.instagram.com/carriepresley
+[4]: http://www.linkedin.com/in/carriepresley
+[5]: http://dribbble.com/carriepresley
 [6]: http://www.github.com/carlsednaoui
 
 

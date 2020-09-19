@@ -12,7 +12,7 @@ Let's connect!
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
-[![alt text][6.1]][6]
+
 
 
 
@@ -22,7 +22,7 @@ Let's connect!
 [3.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/instagram_qybw0o.png (insta)
 [4.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/linkedin_iowicj.png (linkedin)
 [5.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/dribble_q4mpbg.png (dribble)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
 
 
 
@@ -32,7 +32,7 @@ Let's connect!
 [3]: https://www.instagram.com/carriepresley
 [4]: http://www.linkedin.com/in/carriepresley
 [5]: http://dribbble.com/carriepresley
-[6]: http://www.github.com/carlsednaoui
+
 
 
 

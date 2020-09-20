@@ -8,11 +8,11 @@ Currently learning React and polishing some Javascript, CSS, and HTML while crea
 
 Holla. Let's connect!
 
-[![alt text][1.1]][1]&nbsp;
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
+[![alt text][1.1]][1]&nbsp;&nbsp;
+[![alt text][2.1]][2]&nbsp;&nbsp;
+[![alt text][3.1]][3]&nbsp;&nbsp;
+[![alt text][4.1]][4]&nbsp;&nbsp;
+[![alt text][5.1]][5]&nbsp;&nbsp;
 
 
 [1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/twitter_gdx4jb.png (twitter) 

@@ -8,7 +8,7 @@ Currently learning React and polishing some Javascript, CSS, and HTML while crea
 
 Holla. Let's connect!
 
-[![alt text][1.1]][1]
+[![alt text][1.1]][1]&nbsp;
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]

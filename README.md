@@ -1,9 +1,9 @@
 ![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1601332278/carriepresley/Header_092820_kxgg92.jpg)
 
 
-What's up? I'm Carrie. I wear a lot of hats, literally... and figuratively. 
+What's up? I'm Carrie. . 
 
-I majored in Accounting, became a co-owner of a sales agency, and then took a dip in education. From my experiences, the one thing that has always fed my soul, creating new things.  Software development, content creation, and telling a story through different mediums fires me up! Well, that and coffee...and rap music....and yoga.
+I like to create cool shiz.  Software development, content creation, and telling a story through different mediums fires me up! Well, that and coffee...and rap music....and yoga.
 
 Currently learning React and polishing some Javascript, CSS, and HTML while creating my portfolio at [carriepresley.com](https://carriepresley.com).
 

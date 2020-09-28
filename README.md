@@ -3,7 +3,9 @@
 
 What's up? I'm Carrie. . 
 
-I like to create cool shiz.  Software development, content creation, and telling a story through different mediums fires me up! Well, that and coffee...and rap music....and yoga.
+I like to create cool shiz.  Telling a story through different mediums fires me up! Well, that and coffee...and rap music....and yoga.
+
+
 
 Currently learning React and polishing some Javascript, CSS, and HTML while creating my portfolio at [carriepresley.com](https://carriepresley.com).
 

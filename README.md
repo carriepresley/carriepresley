@@ -1,13 +1,13 @@
 ![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1601332278/carriepresley/Header_092820_kxgg92.jpg)
 
 
-What's up? I'm Carrie.
+Hey, what's up? I'm Carrie.
 
-I like to create cool shiz.  Telling a story through different mediums fires me up! Well, that and coffee...and rap music....and yoga.
+I'm a recovering left brain focused, corporate accountant, and high school mathematics teacher.
 
-Currently learning React and polishing some Javascript, CSS, and HTML while creating my portfolio at [carriepresley.com](https://carriepresley.com).
+After years of analyzing and calculating numbers in my day job, I was left to compartmentalize my creativity outside of work. Through a unique journey of professional experiences, I'm finally weaving together my perfect tapestry of problem solving with rebellous, wild creations. Or sometimes just changing a font with CSS, but whatevs.
 
-Holla. Let's connect!
+As a self-taught software developer, I'm busting my a$& to break into tech and I'm sharing my experiences through different mediums. I'm stoked your here, holla anytime!
 
 [![alt text][1.1]][1]&nbsp;&nbsp;
 [![alt text][2.1]][2]&nbsp;&nbsp;

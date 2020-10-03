@@ -3,12 +3,11 @@
 
 Hey, what's up? I'm Carrie.
 
-I'm a recovering left brain focused, corporate accountant, and high school mathematics teacher.
+I'm recovering from my left brain only driven career. 
 
-After years of analyzing and calculating numbers in my day job, I was left to compartmentalize my creativity outside of work. Through a unique journey of professional experiences, I'm finally weaving together a tapestry of problem-solving with rebellious, wild creations. Or sometimes just changing a font with CSS, but whatevs.
+After years of analyzing and calculating numbers in my day jobs as a corporate accountant and math teacher, I was left to compartmentalize my creativity outside of work. Through a unique journey of professional experiences, I'm finally weaving together a tapestry of problem-solving with rebellious, wild creations. Or sometimes just changing a font with CSS, but whatevs.
 
-As a self-taught software developer, I'm busting my a$& to break into tech, and I'm sharing my experiences through different mediums. I'm stoked you're here, holla anytime!
-
+As a self-taught software developer, I'm sharing my journey into the tech industry. I'm Carrie Presley on YouTube, social media platforms, and... in real life.  Let's connect!
 
 [![alt text][1.1]][1]&nbsp;&nbsp;
 [![alt text][2.1]][2]&nbsp;&nbsp;

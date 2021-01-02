@@ -21,8 +21,7 @@ Good vibes your way!
 
 
 [1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1609620274/carriepresley/GitHub%20/twitter_sdoify.png (twitter) 
-[1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/twitter_gdx4jb.png (twitter) 
-[2.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/youtube_brtn5v.png (youtube)
+[2.1]: https://res.cloudinary.com/carriepresley/image/upload/v1609620273/carriepresley/GitHub%20/youtube_1_vegmnh.png (youtube)
 [3.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/instagram_qybw0o.png (insta)
 [4.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/linkedin_iowicj.png (linkedin)
 [5.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/dribble_q4mpbg.png (dribble)

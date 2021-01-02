@@ -1,13 +1,17 @@
 ![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1601332278/carriepresley/Header_092820_kxgg92.jpg)
 
 
-Hey, what's up? I'm Carrie.
+Hey, what's up?
 
-I'm recovering from my left brain only driven career. 
+I'm Carrie Presley, the number-crunching, tech-swooning, mistake-making, always-learning, creator and rebel to the norm.
 
-After years of analyzing and calculating numbers in my day jobs as a corporate accountant and math teacher, I was left to compartmentalize my creativity outside of work. Through a unique journey of professional experiences, I'm finally weaving together a tapestry of problem-solving with rebellious, wild creations. Or sometimes just finding new ways to iterate or jazzing the font in CSS, but whatevs.
+While navigating through my professional experiences in corporate accounting and math education, I was constantly expanding on current software and creatively experimenting with technology.
 
-As a self-taught software developer, I'm sharing my journey into the tech industry. I'm Carrie Presley on YouTube, social media platforms, and... in real life.  Let's connect!
+As a self-taught software engineer, I can put together my wide range of skills from corporate tax returns to teaching algebraic functions through rap music, building projects and playing with new tools.
+
+2021 is the year I get a full-time job as a software engineer! Follow along on YouTube, TikTok, Insta...whatever's your jam. I'm Carrie Presley everywhere online and in real life.
+
+Good vibes your way!
 
 [![alt text][1.1]][1]&nbsp;&nbsp;
 [![alt text][2.1]][2]&nbsp;&nbsp;

@@ -20,7 +20,7 @@ Good vibes your way!
 [![alt text][5.1]][5]&nbsp;&nbsp;
 
 
-[1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/twitter_gdx4jb.png (twitter) 
+[1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1609620274/carriepresley/GitHub%20/twitter_sdoify.png (twitter) 
 [1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/twitter_gdx4jb.png (twitter) 
 [2.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/youtube_brtn5v.png (youtube)
 [3.1]: https://res.cloudinary.com/carriepresley/image/upload/v1600551819/carriepresley/instagram_qybw0o.png (insta)

@@ -1,9 +1,9 @@
 ![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1601332278/carriepresley/Header_092820_kxgg92.jpg)
 
 
-# Hey, what's up?
+# Hey, what's up? I'm Carrie.
 
-I'm Carrie Presley, the number-crunching, tech-swooning, mistake-making, always-learning, creator and rebel to the norm.
+The the number-crunching, tech-swooning, mistake-making, always-learning, creator and rebel to the norm.
 
 While navigating through my professional experiences in corporate accounting and math education, I was constantly expanding on current software and creatively experimenting with technology.
 

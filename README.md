@@ -1,7 +1,7 @@
 ![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1601332278/carriepresley/Header_092820_kxgg92.jpg)
 
 
-Hey, what's up?
+# Hey, what's up?
 
 I'm Carrie Presley, the number-crunching, tech-swooning, mistake-making, always-learning, creator and rebel to the norm.
 

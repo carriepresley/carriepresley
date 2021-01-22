@@ -1,4 +1,4 @@
-![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1611291067/carriepresley/GitHub%20/3_Final_copy_vlvxap.png)
+![I wear a lot of hats.](https://res.cloudinary.com/carriepresley/image/upload/v1611291159/carriepresley/GitHub%20/Github_zew2hd.png)
 
 
 # Hey, what's up? I'm Carrie.

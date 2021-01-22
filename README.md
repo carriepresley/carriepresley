@@ -13,11 +13,11 @@ As a self-taught software engineer, I can put together my wide range of skills f
 
 Good vibes your way!
 
-[![alt text][1.1]][1]&nbsp;&nbsp;
-[![alt text][2.1]][2]&nbsp;&nbsp;
-[![alt text][3.1]][3]&nbsp;&nbsp;
-[![alt text][4.1]][4]&nbsp;&nbsp;
-[![alt text][5.1]][5]&nbsp;&nbsp;
+[![Carrie Presley Twitter Link][1.1]][1]&nbsp;&nbsp;
+[![Carrie Presley YouTube Link][2.1]][2]&nbsp;&nbsp;
+[![Carrie Presley Instagram Link][3.1]][3]&nbsp;&nbsp;
+[![Carrie Presley LinkedIn Link][4.1]][4]&nbsp;&nbsp;
+[![Carrie Presley TikTok Link][5.1]][5]&nbsp;&nbsp;
 
 
 [1.1]: https://res.cloudinary.com/carriepresley/image/upload/v1609620274/carriepresley/GitHub%20/twitter_sdoify.png (twitter) 

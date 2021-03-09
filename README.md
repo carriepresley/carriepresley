@@ -9,7 +9,7 @@ While navigating through my professional experiences in corporate accounting and
 
 As a self-taught software engineer, I can put together my wide range of skills from corporate tax returns to teaching algebraic functions through rap music, building projects and playing with new tools.
 
-2021 is the year I get a full-time job as a software engineer! Follow along on YouTube, TikTok, Insta...whatever's your jam. I'm Carrie Presley everywhere online and in real life.
+Follow along on YouTube, TikTok, Insta...whatever's your jam. I'm Carrie Presley everywhere online and in real life.
 
 Good vibes your way!
 

@@ -5,9 +5,7 @@
 
 The the number-crunching, tech-swooning, mistake-making, always-learning, creator and rebel to the norm.
 
-While navigating through my professional experiences in corporate accounting and math education, I was constantly expanding on current software and creatively experimenting with technology.
-
-As a self-taught software engineer, I can put together my wide range of skills from corporate tax returns to teaching algebraic functions through rap music, building projects and playing with new tools.
+While navigating through my professional experiences in corporate accounting and math education, I was constantly expanding on current software and creatively experimenting with software development.
 
 Follow along on YouTube, TikTok, Insta...whatever's your jam. I'm Carrie Presley everywhere online and in real life.
 

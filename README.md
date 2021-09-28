@@ -5,11 +5,11 @@
 
 The number-crunching, tech-swooning, mistake-making, always-learning, creator and not fitting into a norm.
 
-While navigating through my professional experiences in corporate accounting and math education, I was constantly expanding on current software and creatively experimenting with software development.
+While navigating through my professional experiences in corporate accounting and STEM education, I was constantly expanding on current software and creatively experimenting with software development.
 
 Follow along on YouTube, TikTok, Insta...whatever's your jam. I'm Carrie Presley everywhere online and in real life.
 
-Good vibes your way!
+Sending all the good vibes your way.
 
 [![Carrie Presley Twitter Link][1.image]][1.link]&nbsp;&nbsp;
 [![Carrie Presley YouTube Link][2.image]][2.link]&nbsp;&nbsp;

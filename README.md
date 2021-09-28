@@ -3,7 +3,7 @@
 
 # Hey, what's up? I'm Carrie.
 
-The number-crunching, tech-swooning, mistake-making, always-learning, creator and rebel to the norm.
+The number-crunching, tech-swooning, mistake-making, always-learning, creator and not fitting into a norm.
 
 While navigating through my professional experiences in corporate accounting and math education, I was constantly expanding on current software and creatively experimenting with software development.
 

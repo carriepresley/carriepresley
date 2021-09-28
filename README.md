@@ -5,7 +5,7 @@
 
 A number-crunching, tech-swooning, mistake-making, always-learning, creator.
 
-While navigating through my professional experiences in corporate accounting and STEM education, I was constantly expanding on current software and creatively experimenting with software development.
+While navigating through my professional experiences in corporate accounting and STEM education, I've stumbled into blockchain, web3, and front-end development!
 
 Follow along on YouTube, TikTok, Insta...whatever's your jam. I'm Carrie Presley everywhere online and in real life.
 

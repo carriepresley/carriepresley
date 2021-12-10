@@ -1,4 +1,4 @@
-![Carrie Presley Header Image](https://res.cloudinary.com/carriepresley/image/upload/v1611291159/carriepresley/GitHub%20/Github_zew2hd.png)
+
 
 
 # Hey, what's up? I'm Carrie.

@@ -17,7 +17,7 @@
 
 
 
-[1.link]: http://www.twitter.com/carriepresley15
+[1.link]: http://www.twitter.com/0xcarriepresley
 [2.link]: http://www.youtube.com/carriepresley
 [3.link]: https://www.instagram.com/carriepresley
 [4.link]: http://www.linkedin.com/in/carriepresley

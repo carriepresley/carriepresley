@@ -17,10 +17,10 @@
 
 
 
-[1.link]: http://www.twitter.com/carriepresley
-[2.link]: http://www.youtube.com/carrie_presley
+[1.link]: https://x.com/carriepresley
+[2.link]: https://www.youtube.com/carrie_presley
 [3.link]: https://www.instagram.com/carriepresley
-[4.link]: http://www.linkedin.com/in/carriepresley
+[4.link]: https://www.linkedin.com/in/carriepresley
 
 
 

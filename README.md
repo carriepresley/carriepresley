@@ -7,6 +7,7 @@
 [![Carrie Presley YouTube Link][2.image]][2.link]&nbsp;&nbsp;
 [![Carrie Presley Instagram Link][3.image]][3.link]&nbsp;&nbsp;
 [![Carrie Presley LinkedIn Link][4.image]][4.link]&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@carriepresley"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/white"><img src="https://cdn.simpleicons.org/tiktok/black" alt="Carrie Presley on TikTok" height="44"></picture></a>&nbsp;&nbsp;
 
 
 

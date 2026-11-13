@@ -3,7 +3,7 @@
 
 # Hey, what's up? I'm Carrie.
 
-[![Carrie Presley Twitter Link][1.image]][1.link]&nbsp;&nbsp;
+<a href="https://x.com/carriepresley"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img src="https://cdn.simpleicons.org/x/black" alt="Carrie Presley on X" height="44"></picture></a>&nbsp;&nbsp;
 [![Carrie Presley YouTube Link][2.image]][2.link]&nbsp;&nbsp;
 [![Carrie Presley Instagram Link][3.image]][3.link]&nbsp;&nbsp;
 [![Carrie Presley LinkedIn Link][4.image]][4.link]&nbsp;&nbsp;
